@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.rtash22.Taskly3.x0"
     },
     "web": {
       "favicon": "./assets/favicon.png"
