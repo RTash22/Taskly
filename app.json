@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Taskly3.0",
-    "slug": "Taskly3.0",
+    "slug": "Taskly3-0",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.rtash22.Taskly3.x0"
     },
     "android": {
       "adaptiveIcon": {
@@ -24,6 +25,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e936d969-89d2-4c03-baa4-b000849c5698"
+      }
     }
   }
 }
