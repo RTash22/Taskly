@@ -12,16 +12,25 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "enabled": true,
+      "url": "https://u.expo.dev/e936d969-89d2-4c03-baa4-b000849c5698"
+    },
     "ios": {
       "supportsTablet": true,
-      "package": "com.rtash22.Taskly3.x0"
+      "package": "com.rtash22.Taskly3.x0",
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.rtash22.Taskly3.x0"
+      "package": "com.rtash22.Taskly3.x0",
+      "runtimeVersion": "1.0.0"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -32,6 +41,5 @@
       }
     },
     "scheme": "taskly-v3-0"
-    
   }
 }
