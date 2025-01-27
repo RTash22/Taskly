@@ -30,6 +30,8 @@
       "eas": {
         "projectId": "e936d969-89d2-4c03-baa4-b000849c5698"
       }
-    }
+    },
+    "scheme": "taskly-v3-0"
+    
   }
 }
